@@ -1,4 +1,11 @@
-# Human Pose Estimation
+# HPE3D
+
+Code for human pose estimation with VAE-GAN hybrid model.
+
+[Presentation](https://docs.google.com/presentation/d/167crr5xf_YZ8U8hUgSEpa6ah-odgo1ag0sWCCX0omBo)
+[Thesis](https://www.diva-portal.org/smash/get/diva2:1536685/FULLTEXT01.pdf)
+
+# Human Pose Estimation - Literature Study
 
 * [Concetps](#Concepts)  
 * [3D HPE](#3D-HPE)
